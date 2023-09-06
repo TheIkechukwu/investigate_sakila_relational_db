@@ -7,6 +7,15 @@ The Sakila Database holds information about a company that rents movie DVDs [for
 ## Project goal
 For this project, you will be querying the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance.
 
+## Business Questions
+Here are the questions
+1. The distribution of rental counts based on film categories
+2. Which countries are most of our customers from?
+3. The countries (Top 10) we have generated the most revenue from?
+4. Based on rental counts, who are our top customers?
+
+_The queries and visualisations I used in answering these questions are attach to this repo_
+
 ## Project Rubric
 * All SQL queries run without errors and produce the intended results.
 * Each SQL query needs to include one or more explicit JOINs. The JOIN or JOINs should be necessary to the query.
